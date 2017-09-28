@@ -1,10 +1,10 @@
 using System;
 using UnityEngine;
 
-namespace UnityEngine.PostProcessing
+namespace RetroLooks
 {
     [Serializable]
-    public abstract class PostProcessingModel
+    public abstract class RetroLooksModel
     {
         [SerializeField, GetSet("enabled")]
         bool m_Enabled;

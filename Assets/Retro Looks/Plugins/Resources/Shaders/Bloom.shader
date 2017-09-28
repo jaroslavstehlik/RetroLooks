@@ -3,7 +3,7 @@
 	Properties
 	{
 		_MainTex ("Main Texture", 2D) = "white" {}
-		_BlurTex("Blue Texture", 2D) = "black" {}
+		_BlurTex("Blur Texture", 2D) = "black" {}
 		_Noise ("Noise Texture", 2D) = "black" {}
 		_NoiseAmount("Noise Amount", Float) = 1
 		_Treshold ("Treshold", Vector) = (0.9, 1, 0, 0)
